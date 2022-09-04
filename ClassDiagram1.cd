@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ButtonBase">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAKAAAAAAAAAAAAAAABAAACAgAAEAAAAAAEI=</HashCode>
+      <FileName>Assets\Scripts\Buttons\ButtonBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NumericButtonBase">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAQAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\NumericButtonBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OperationButtonBase" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\OperationButtonBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdditionButton" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\AdditionButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackspaceButton" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAAAAAAAAAAAAAEAEgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\BackspaceButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClearButton" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\ClearButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataButton" Collapsed="true">
+    <Position X="3" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAKAAAAAAAAAAIAAAAAAAAAAAAAEQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\DataButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DivisionButton" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\DivisionButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotButton" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAQAAAAAIAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\DotButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EqualButton" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAFAAAAAIAAAAAABIAAAAAAAAAAAAAAAAEwAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\EqualButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtractionButton" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\ExtractionButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeftPButton" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\LeftPButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RightPButton" Collapsed="true">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\RightPButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecordButton" Collapsed="true">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAgAAAKAAAAAAAAAAAAgAAAAAAAAAAAEQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\RecordButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiplicationButton" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\MultiplicationButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogButton" Collapsed="true">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAEgAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\LogButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LnButton" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\Operations\LnButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfixConverter">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAIAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\InfixConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataList">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DataList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finish">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Finish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputManager">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAQAAgAAQAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveSwipe">
+    <Position X="9.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQQAAAAAACAAAQAACAAAAAAAIAJAQAAAAAEQAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\MoveSwipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

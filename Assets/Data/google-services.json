@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "550583723603",
+    "firebase_url": "https://calculator-65a11-default-rtdb.firebaseio.com",
+    "project_id": "calculator-65a11",
+    "storage_bucket": "calculator-65a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550583723603:android:22af0e5c7625619c17c8a6",
+        "android_client_info": {
+          "package_name": "com.skyloft.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550583723603-ff65ki28c6516fr98kg25diqf4ukpurv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9MoOO11CdJwjF711KdROz2j-Zo0HvDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550583723603-ff65ki28c6516fr98kg25diqf4ukpurv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550583723603-v2ofqqakbmn044q989np49jim5oqs7f9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skyloft.calculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
